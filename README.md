@@ -15,3 +15,6 @@ Welcome to **Shoes Showcase**! 👟✨ This project allows you to view a product
 - **JavaScript**: Adding interactivity such as dark mode toggle and hover effects. ⚙️
 
 ## 📸 Screenshot
+Below is a sample view of output :
+![nike ](screenshot1.png)
+![nike ](Screenshot2.png)
