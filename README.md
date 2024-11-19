@@ -14,7 +14,5 @@ Welcome to **Shoes Showcase**! 👟✨ This project allows you to view a product
 - **CSS/SCSS**: Styling the page with a modern, clean design. 🎨
 - **JavaScript**: Adding interactivity such as dark mode toggle and hover effects. ⚙️
 
-## 📸 Screenshot
-Below is a sample view of output :
 ![nike ](screenshot1.png)
 ![nike ](Screenshot2.png)
